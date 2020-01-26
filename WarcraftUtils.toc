@@ -1,0 +1,14 @@
+## Interface: 11303
+## Title: Warcraft Utils
+## Notes: Utility addon for WoW.
+## Version: 0.9.0-classic
+## Author: Daarknes
+## DefaultState: enabled
+
+embeds.xml
+Frames.xml
+AceGUIWidget-Spacer.lua
+
+Commands.lua
+UI.lua
+WarcraftUtils.lua

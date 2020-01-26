@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+
+old/
+
+# zipped archives
+*.zip
+*.rar
+*.tar
+*.tar.gz
+
+# Photoshop
+*.psd
